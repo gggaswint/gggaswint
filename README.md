@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Geoffrey 👋
 
-<!--
-**gggaswint/gggaswint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building infrastructure for autonomous AI agents.
 
-Here are some ideas to get you started:
+### Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ AgentGuard
+
+An open-source policy and audit layer that sits between AI agents and the tools they use.
+
+Every tool call should be:
+
+✓ Permissioned
+
+✓ Observable
+
+✓ Auditable
+
+✓ Governed
+
+---
+
+### Long-term Vision
+
+As AI agents become more autonomous, they'll need infrastructure similar to what the internet relies on today:
+
+- Identity
+- Authorization
+- Policy
+- Audit
+- Governance
+
+I'm exploring what that future looks like through open-source software.
