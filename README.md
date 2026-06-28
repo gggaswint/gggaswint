@@ -8,48 +8,28 @@
 
 # Hi, I'm Geoffrey 👋
 
-I'm building infrastructure for autonomous AI agents.
+I'm building **the trust layer for autonomous AI** — so teams can let agents take real actions without giving up control or visibility.
 
-As AI agents evolve from chatbots into autonomous software systems, they'll need the same foundational infrastructure that powers today's cloud applications: identity, policy, governance, observability, and auditability.
-
-I'm focused on building that foundation through open-source software.
+AI is shifting from software that answers questions to software that *acts*: running code, sending email, moving money, calling APIs. As that happens, the limiting factor won't be capability — it will be **trust**. I work on that problem, in the open.
 
 ## 🚀 Building
 
-### [Aegize](https://github.com/gggaswint/aegize)
+### [Aegize](https://github.com/gggaswint/aegize) — infrastructure for autonomous AI agents
 
-Infrastructure for autonomous AI agents.
+The runtime layer between an agent and the tools it uses. Every action gets an identity, is checked against policy, gated for approval when it matters, and recorded — before it reaches the outside world.
 
-Aegize provides runtime infrastructure that sits between AI agents and the tools they use, ensuring every action is:
+- ✅ Identity for every agent
+- ✅ Declarative, default-deny policy
+- ✅ Human-in-the-loop approvals
+- ✅ Append-only audit
+- ✅ Vendor-neutral and open source
 
-- ✅ Identity-aware
-- ✅ Permissioned
-- ✅ Policy enforced
-- ✅ Auditable
-- ✅ Governed
+## 🎯 Mission
 
-Whether an agent is reading files, sending emails, executing code, or calling APIs, every tool invocation should be explicit, observable, and controllable.
+> Every meaningful AI action should pass through trusted runtime infrastructure before reaching the outside world.
 
-## 🎯 Vision
-
-The internet runs on foundational infrastructure:
-
-- Identity
-- Authentication
-- Authorization
-- Observability
-- Logging
-- Governance
-
-Autonomous AI agents deserve the same.
-
-My goal is to build open infrastructure that helps developers and organizations deploy AI agents reliably, transparently, and at scale.
+Security is one outcome of getting this right; operability, reviewability, and confidence in deployment are the rest.
 
 ## 🛠 Interests
 
-- Autonomous AI Systems
-- AI Infrastructure
-- Distributed Systems
-- Runtime Governance
-- Developer Platforms
-- Open Source
+Autonomous AI systems · runtime governance · developer platforms · distributed systems · open source
