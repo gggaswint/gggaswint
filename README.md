@@ -1,4 +1,9 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/gggaswint/aegize/main/assets/logo.png" alt="Aegize logo" width="90"> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gggaswint/aegize/main/assets/logo-dark.png">
+    <img src="https://raw.githubusercontent.com/gggaswint/aegize/main/assets/logo-light.png" alt="Aegize" width="104">
+  </picture>
+</p>
 
 <h2 align="center"> Building the trust layer for autonomous AI. </h2>
 
